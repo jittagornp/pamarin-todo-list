@@ -1,6 +1,6 @@
 # pamarin-todo-list
 
-##OK
+##DONE
 - google map image caching                                                  (/)
 - private field / column                                                           (/)
 - upload photos progress                                                         (/)
@@ -156,3 +156,34 @@ https://developers.google.com/structured-data/testing-tool/
 - back to top icon on the left bottom side             (/)
 - calendar reposition when window resize             (/)         
 - google map auto zoom when search                  (/)
+
+##DOING
+- hidden user id from json response
+- [BUG] delete post load last post 
+- report trips / users
+- feedback system
+- cancel upload file 
+- category กิจกรรม เทศกาล
+- don't update map when not change
+- rotate image from client
+- re ajax loading
+- change cover lib ajax upload to UploadFile
+- auto save post draff
+
+- home cover photo
+- auto deploy script
+- database configuration
+- test all browsers
+- security 
+    - https
+    - hide jwt heade and encrypt again / 
+    - csrf token
+    - request signature
+    - request nonce
+    - API protection 
+    - JSONHijacking / 
+    - x-xss-protection /
+    - x-frame-options   /
+
+https://scotthelme.co.uk/content-security-policy-an-introduction/
+https://securityheaders.io/
