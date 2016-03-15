@@ -167,7 +167,7 @@ https://developers.google.com/structured-data/testing-tool/
 - rotate image from client
 - re ajax loading
 - change cover lib ajax upload to UploadFile
-- auto save post draff
+- auto save for draff post
 
 - home cover photo
 - auto deploy script
