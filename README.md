@@ -1,2 +1,158 @@
 # pamarin-todo-list
-to do list of pamarin
+
+##OK
+- google map image caching                                                  (/)
+- private field / column                                                           (/)
+- upload photos progress                                                         (/)
+- template caching                                                                    (/)
+- ajax loading (use pamarin logo)                                        (/)
+- show all photos of trips                                                       (/)
+- delete photos UX                                            (/)
+- photo temporary caching                                                     (/)
+- reload comments                                           (/)
+- user like UX                                                                                                     (/)
+- delete comment dialog UI                                 (/)
+- follow user UX (count number of follow)              (/)   
+- validation UX                                               (/)
+- one trip (large) photo size                                (/) 
+- load last comment when deleted                       (/) 
+- trip card description (use first post)                  (/)
+- load last post when deleted                             (/)
+- delete post UX (dialog UI)                               (/)
+- ajax loading                                                (/)
+- social share button                                        (/)
+- trip photo cover                                           (/)
+- facebook sysnc login                                      (/)                                                         
+- google map marker size                                  (/)    
+- textarea auto size                                         (/)
+- disable ajax loading when like and follow            (/)   
+- change user profile photo                               (/)
+- lock scroll trip tag & presenter                        (/)
+- [BUG] state change duplicate view                    (/)
+- growl UI                                                    (/)
+- database polling (keep alive)                            (/)
+- tooltip UI                                                    (/)
+- default trip cover photo                                 (/)
+- delete post notification                                  (/) 
+- validate published trip when                           (/)                                                                   
+    - has cover photo
+    - has post
+- focus on post when show delete dialog               (/)   
+- focus on comment when show delete dialog        (/)
+- trip inject link service                                   (/)
+- token with salt                                            (/) 
+- logut redirection                                          (/)
+- show error networking connect                       (/)
+- static resources caching                                 (/) 
+- change trip status to draff when post is empty   (/)
+- validate photo mime type                              (/)
+- first time login                                                 (/)
+- user page header                                         (/)
+- upload photo UX (not smooth)                        (/) 
+- custom error page                                       (/)
+- api call localhost                                         (/)  
+- web configuration                                        (/) 
+- disabled action button when ajax loading          (/)
+- reply comment                                           (/)
+   - add comment     
+   - edit comment     
+   - delete comment and children of comment   
+   - load more comments  
+   - refresh comments  
+   - validation comment 
+   - UI design 
+- default error message validation                      (/)
+- dialog reposition                                          (/)
+- change save button comment from a -> button   (/) 
+- all entity has user_id                                     (/)
+- photo has upload sequence                              (/)
+- image loading background (photo viewer)           (/)
+- auto focus comment textarea when reply           (/)
+- infinite scroll on mouse wheel                          (/)
+- auto build maven profile with command            (/)
+- lazy load comment                                       (/)
+- page title | Pamarin                                     (/)
+- re comment message backup                          (/)
+- trip cover box shadow                                   (/)
+- reference_type                                             (/)   
+- [BUG] mode gsc photo (.png)                          (/)  
+- database indexes                                          (/)
+   - id
+   - ref_id & ref_type
+   - dated (created_date, updated_date, published_date)
+   - user_id
+- api uncache                                               (/)
+- logging configuration                                    (/) 
+- config photo file location                               (/)
+- minimized js/css file on build profile                 (/) 
+- change photo url to static url pattern               (/) 
+- meta tag SEO                                             (/)
+- Gzip                                                         (/)
+- photo rotation                                            (/)
+- json vulnerability protection (API)                    (/)     
+- social share image background and meta tag SEO
+    - facebook / 470 x 246
+    - twitter / 506 x 266
+    - Google+ / 426 x 300
+- json linking data (http://json-ld.org/)              (/)                     https://schema.org/CreativeWork
+https://developers.google.com/structured-data/testing-tool/
+- schema type                                              (/)
+- integrate jQuery to lib file                             (/)
+- logo 204x60                                              (/) 
+- zoom button when crop image                        (/)
+-  photo ratio size (post gallery, case one photo)     (/)
+- trip left tags fixed                                        (/) 
+- home page social share image                         (/) 
+- re file size photo file                                     (/)
+- protect .gif file upload                                   (/)
+- trip (travel) when                                        (/)
+   - ui / 
+   - service /
+   - validate / 
+- lazy load static image                                   (/)
+- change wording [tags -> category]                   (/)
+ - comment dialog                                         (/)
+- trip infinite scroll                                        (/)
+- move comment to new service and api              (/)
+- social share button                                       (/) 
+- refactoring structure from tag -> trip category   (/) 
+- [BUG] follow (show wrong tab)                        (/) 
+- add follower to list when click follow button       (/) 
+- user profile name title generator (refactoring)     (/)
+- trip photo tab load more (infinite scroll)            (/)
+- background menu color : #D8DFE6                  (/) 
+- add noscript html                                        (/)
+- design icon
+    - categoies
+        - main / 
+        - checkbox /
+    - trip menu / 
+    - change user profile button /
+    - like icon / 
+    - calendar next prev icon
+    - write trip
+    - insert post
+    - user login triangle icon /
+- config api key (facebook app id and map key)      (/)
+- hide comment when edit mode                        (/)
+- angularjs exception handler                            (/)
+- tripcard new style                                        (/)
+- resisze cover photo to 850x300px                    (/)
+- click add post move to bottom page                  (/)
+- move to last post when post last position           (/)
+- [BUG] popup menu (template)                        (/) 
+- redesign login button                                    (/)
+- resize cover photo and user profile photo 
+   from client                                                (/)
+- refactoring code upload photo (when error)        (/)
+- comment dialog template                              (/)
+- like triagle icon                                           (/)  
+-  trip setting icon                                         (/)
+- insert post icon                                           (/) 
+- edit icon                                                    (/)
+- insert post menu icon                                   (/)
+- google map detect localtion icon                      (/')
+- google map auto complete search                     (/)  
+- back to top icon on the left bottom side             (/)
+- calendar reposition when window resize             (/)         
+- google map auto zoom when search                  (/)
