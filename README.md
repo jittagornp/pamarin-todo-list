@@ -154,7 +154,6 @@ https://developers.google.com/structured-data/testing-tool/
 - google map detect localtion icon                      (/')
 - google map auto complete search                     (/)  
 - back to top icon on the left bottom side             (/)
-- calendar reposition when window resize             (/)         
 - google map auto zoom when search                  (/)
 
 ##DOING
